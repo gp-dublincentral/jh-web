@@ -10,7 +10,7 @@ We need volunteers on the ground in Dublin Central to canvas, deliver leaflets a
 
 **Stay connected**
 
-Stay connected on Social Media or [click here](/signup) to subscribe to my mailing list to stay up to date on campaigns and issues with which I am involved.
+Stay connected on Social Media to stay up to date on campaigns and issues with which I am involved.
 
 **Join the Green Party**
 
