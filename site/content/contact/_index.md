@@ -3,11 +3,11 @@ title: "Contact"
 image: "/img/logo-green.png"
 contact_entries:
   - heading: Mobile
-    text: (085) 2849914
-    link: tel:+353852849914
+    text: (087) 9217310
+    link: tel:+353879217310
   - heading: Email
-    text: neasa.hourigan@gmail.com
-    link: mailto:neasa.hourigan@gmail.com
+    text: janetp.horner@gmail.com 
+    link: Janetp.horner@gmail.com
   - heading: Mailing list
     text: Subscribe here
     link: /signup  

@@ -2,13 +2,16 @@
 title: "Priorities"
 image: /img/priorities-jumbotron.jpg
 values:
-    - heading: "Decent, affordable housing"
-      text: "A lack of housing and sky rocketing rents are damaging peoples' lives. I am actively working to ensure that local and government bodies provide decent and affordable housing for all, while addressing rising homelessness and falling housing standards."
+    - heading: "Safe Streets to Walk and Cycle"
+      text: "Our streets should not be a battleground. I will work with others to ensure Dublin can be a city that is safe and comfortable for people of all ages and abilities to walk and cycle around. Improving our footpaths and cycle lanes helps us tackle the related crises of climate change, public health and inequality."
       imageUrl: "/img/priorities-housing.jpg"
-    - heading: "A livable, active city"
-      text: "As a mother with a young, visually impaired child, I know how difficult it can be to get around Dublin. I believe that proper funding for active use of the city should focus on accessibility, good cycling infrastructure, and safety for vulnerable road users."
+    - heading: "Decent and Affordable Housing"
+      text: "Our city is facing a crisis of housing and homelessness. I want everyone for whom Dublin is home to be able to live securely and sustainably in the city. I will advocate for public investment in housing to meet this crisis and address the diversity of housing needs. "
       imageUrl: "/img/priorities-city.jpg"
-    - heading: "A more sustainable future"
-      text: "Dublin is a wonderful city to live in. I am committed to developing our community by focusing on waste and plastic reduction, tackling air pollution, and improving access to green space and sports amenities for children and adults."
+    - heading: "Clean Air and Water"
+      text: "We all have a right to air and water which does not jeopardise our health. This is particularly important for children and those who suffer from respiratory illnesses. I will work to reduce traffic congestion and increase green spaces in the city and fight for clean, safe water in Dublin Bay."
+      imageUrl: "/img/priorities-waste.jpg"
+    - heading: "Human Rights and Equality"
+      text: "Our city belongs to all of us. Cities are creative and innovating spaces where people come together from diverse backgrounds to live together and to share their cultures and identities. I will work with others to stand up against intolerance and discrimination and place human rights, equality and respect at the heart of our city, our education and our culture."
       imageUrl: "/img/priorities-waste.jpg"
 ---
