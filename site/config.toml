@@ -1,6 +1,6 @@
 baseurl = "https://janethorner.ie/"
 languageCode = "en-us"
-title = "Cllr. Janet Horner.ie/"
+title = "Cllr. Janet Horner"
 
 disableKinds = ["taxonomyTerm"]
 
