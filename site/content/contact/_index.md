@@ -6,8 +6,8 @@ contact_entries:
     text: (087) 9217310
     link: tel:+353879217310
   - heading: Email
-    text: janetp.horner@gmail.com 
-    link: Janetp.horner@gmail.com
+    text: Janet.horner@greenparty.ie 
+    link: Janet.horner@greenparty.ie
 ---
 
 We’d love to hear any of your ideas for or concerns about the constituency.
