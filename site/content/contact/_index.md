@@ -3,14 +3,11 @@ title: "Contact"
 image: "/img/logo-green.png"
 contact_entries:
   - heading: Mobile
-    text: (085) 2849914
-    link: tel:+353852849914
+    text: (087) 9217310
+    link: tel:+353879217310
   - heading: Email
-    text: neasa.hourigan@gmail.com
-    link: mailto:neasa.hourigan@gmail.com
-  - heading: Mailing list
-    text: Subscribe here
-    link: /signup  
+    text: Janet.horner@greenparty.ie 
+    link: Janet.horner@greenparty.ie
 ---
 
 We’d love to hear any of your ideas for or concerns about the constituency.

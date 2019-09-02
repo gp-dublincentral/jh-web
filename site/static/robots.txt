@@ -2,4 +2,4 @@ User-agent: *
 Disallow: 
 Disallow: /credits/
 Disallow: /privacy/
-Sitemap: https://neasahourigan.com/sitemap.xml
+Sitemap: https://janethorner.ie/sitemap.xml

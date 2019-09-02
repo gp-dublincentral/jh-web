@@ -1,17 +1,18 @@
 ---
 title: "Home"
-pagetitle: Cllr. Neasa Hourigan
+pagetitle: Cllr. Janet Horner
 subtitle: A better way starts with us
-image: /img/073A2409.jpg
+image: /img/JH10.jpg
 blurb:
     heading: "Who am I?"
-    text: "Neasa Hourigan was elected as the Green Party councillor for Cabra-Glasnevin on 24th May 2019. She is a mother of three and a full time carer for her oldest child. She has a professional background as a specialist in creating sustainable communities and was a university lecturer in environmental development and design. She and her family have lived in Cabra, Dublin 7 for 15 years."
+    text: "I am the Green Party representative for the North-Inner City on Dublin City Council, a community which has been my home for over six years. I have lived in Ireland, England, Uganda and India working in politics, human rights and community development projects. I’m a trade union activist and currently hold a position on the SIPTU Equality Committee. I am a feminist and advocate for gender equality. I worked closely with others as part of the Dublin Central Together for Yes campaign to repeal the eighth amendment in 2018. I am a daily cyclist in Dublin I am passionate about improving walking and cycling conditions in our city to ensure that everyone, of all ages, genders and abilities, can safely use and enjoy our shared public streets. I hold a degree in Anthropology and Development Studies and a Masters in Politics and Public Policy."
 intro:
     heading: "My priorities"
-    text: "'I want to live in a country where we all can enjoy safe streets, a decent roof over our heads, peace and equal opportunities. I believe passionately that green principles are a pathway towards a more compassionate, equitable and environmentally responsible society. If you want a better future for you, your family, children and neighbours and aspire to make our communities the best place to live in Dublin then I would love you to consider supporting me in the upcoming general election."
+    text: ""
 products:
-    - heading: "Decent, affordable housing"
-    - heading: "A livable, active city"
-    - heading: "A more sustainable future"
+    - heading: "Safe Streets to Walk and Cycle"
+    - heading: "Decent and Affordable Housing"
+    - heading: "Clean Air and Water"
+    - heading: "Human Rights and Equality"
 ---
 

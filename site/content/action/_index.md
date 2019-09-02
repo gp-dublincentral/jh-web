@@ -8,13 +8,9 @@ You can make a difference.
 
 We need volunteers on the ground in Dublin Central to canvas, deliver leaflets and take part in local events. You can also come along to a branch meeting (for inspiration or just a chat).  Get in [touch with me](/contact) or the [Dublin Central Branch](mailto:dublincentral@greenparty.ie) to find out more.
 
-**Donate to my campaign**
-
-Your donation allows me to connect with people and get a message of social equality and environmental responsibility out there. Please help me work towards a better future for all. [Make a Donation](https://www.gofundme.com/campaign-fund-for-dublin-central)
-
 **Stay connected**
 
-Stay connected on Social Media or [click here](/signup) to subscribe to my mailing list to stay up to date on campaigns and issues with which I am involved.
+Stay connected on Social Media to stay up to date on campaigns and issues with which I am involved.
 
 **Join the Green Party**
 
