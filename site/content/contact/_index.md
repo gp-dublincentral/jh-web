@@ -8,9 +8,6 @@ contact_entries:
   - heading: Email
     text: janetp.horner@gmail.com 
     link: Janetp.horner@gmail.com
-  - heading: Mailing list
-    text: Subscribe here
-    link: /signup  
 ---
 
 We’d love to hear any of your ideas for or concerns about the constituency.
