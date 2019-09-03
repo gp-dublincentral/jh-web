@@ -8,4 +8,4 @@ image: /img/dublincityhall.jpg
 ---
 At the Dublin City Council meeting on 2nd September 2019 Janet Horner was co-opted to Dublin City Council by her fellow councillors.
 
-A webcast of the meeting can be found [here](https://dublincity.public-i.tv/core/portal/webcast_interactive/437711)
+A webcast of the meeting can be found [here](https://dublincity.public-i.tv/core/portal/webcast_interactive/437711).  A direct link to Janet's nomination is [here](https://dublincity.public-i.tv/core/portal/webcast_interactive/437711/start_time/2941000?force_language_code=en_GB).
