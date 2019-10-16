@@ -8,6 +8,9 @@ contact_entries:
   - heading: Email
     text: Janet.horner@greenparty.ie 
     link: Janet.horner@greenparty.ie
+  - heading: Twitter
+    text: "@JanetPHorner" 
+    link: https://twitter.com/janetphorner
 ---
 
 We’d love to hear any of your ideas for or concerns about the constituency.
