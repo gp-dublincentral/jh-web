@@ -2,7 +2,7 @@
 title: Retaining access to the Holy Cross site
 date: 2020-03-10T09:06:41.147Z
 description: >-
-  Response Cllr. Janet Horner received regarding retaining accessible public the
+  Response Cllr. Janet Horner received regarding retaining public access to the
   Holy Cross site
 image: /img/40708772701_822d1ea673_c.jpg
 ---
