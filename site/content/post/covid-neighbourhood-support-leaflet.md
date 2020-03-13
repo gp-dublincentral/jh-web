@@ -7,6 +7,6 @@ description: >-
   to print off a copy if you are doing something similar.
 image: /img/whatsapp-image-2020-03-13-at-13.37.13.jpeg
 ---
-\*Please be familiar with HSE guidelines here before contacting any neighbours.
+\*Please be familiar with HSE guidelines [here](https://www2.hse.ie/conditions/coronavirus/protect-yourself.html) before contacting any neighbours.
 
 The leaflet can be downloaded [here](/docs/CovidCommunitySupportSide1.pdf)
