@@ -9,4 +9,4 @@ image: /img/whatsapp-image-2020-03-13-at-13.37.13.jpeg
 ---
 \*Please be familiar with HSE guidelines here before contacting any neighbours.
 
-The leaflet can be downloaded [here](CovidCommunitySupportSide1.pdf)
+The leaflet can be downloaded [here](/docs/CovidCommunitySupportSide1.pdf)
