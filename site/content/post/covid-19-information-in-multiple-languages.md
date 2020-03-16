@@ -17,3 +17,5 @@ Files:
 * [Poster 2 coronavirus Italian.pdf](/docs/COVID-19/Poster%202%20coronavirus%20Italian.pdf)
 * [Poster 2 coronavirus Polish.pdf](/docs/COVID-19/Poster%202%20coronavirus%20Polish.pdf)
 * [Poster 2 coronavirus Romanian.pdf](/docs/COVID-19/Poster%202%20coronavirus%20Romanian.pdf)
+
+
