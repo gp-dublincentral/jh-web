@@ -1,21 +1,22 @@
 ---
 title: COVID-19 information in multiple languages
 date: 2020-03-16T16:44:02.971Z
-description: Please find below the official HSE messages on Covid-19 in multiple languages.
+description: Official HSE translations of COVID-19 information can be found below.
 ---
-Files:
+More languages and updated resources will be added on the website as they become available: https://www.hse.ie/eng/services/news/newsfeatures/covid19-updates/partner-resources/covid-19-translated-resources/ 
 
-* [COVID-19 Albanian.pdf](/docs/COVID-19/COVID-19%20Albanian.pdf)
-* [COVID-19 Arabic Version 2.pdf](/docs/COVID-19/COVID-19%20Arabic%20Version%202.pdf)
-* [COVID-19 French.pdf](/docs/COVID-19/COVID-19%20French.pdf)
-* [COVID-19 Georgian.pdf](/docs/COVID-19/COVID-19%20Georgian.pdf)
-* [COVID-19 Urdu Version 1.pdf](/docs/COVID-19/COVID-19%20Urdu%20Version%201.pdf)
-* [COVID-19 Yoruba Version 1.pdf](/docs/COVID-19/COVID-19%20Yoruba%20Version%201.pdf)
-* [Poster 1 Coronavirus English.pdf](/docs/COVID-19/Poster%201%20Coronavirus%20English.pdf)
-* [Poster 1 Coronavirus Romanian.pdf](/docs/COVID-19/Poster%201%20Coronavirus%20Romanian.pdf)
-* [Poster 2 coronavirus English.pdf](/docs/COVID-19/Poster%202%20coronavirus%20English.pdf)
-* [Poster 2 coronavirus Italian.pdf](/docs/COVID-19/Poster%202%20coronavirus%20Italian.pdf)
-* [Poster 2 coronavirus Polish.pdf](/docs/COVID-19/Poster%202%20coronavirus%20Polish.pdf)
-* [Poster 2 coronavirus Romanian.pdf](/docs/COVID-19/Poster%202%20coronavirus%20Romanian.pdf)
+[Informacje o koronawirusie (Polish)](https://www.hse.ie/eng/services/news/newsfeatures/covid19-updates/partner-resources/covid-19-translated-resources/informacje-o-koronawirusie-polish.pdf)
 
+[Koronaviruso informacijos plakatas (Lithuanian)](https://www.hse.ie/eng/services/news/newsfeatures/covid19-updates/partner-resources/covid-19-translated-resources/koronaviruso-informacijos-plakatas-lithuanian.pdf)
 
+[Koronavīruss – informācijas plakāts (Latvian)](https://www.hse.ie/eng/services/news/newsfeatures/covid19-updates/partner-resources/covid-19-translated-resources/koronaviruss-%E2%80%93-informacijas-plakats-latvian.pdf)
+
+[Manifesto informativo sul Coronavirus (italian)](https://www.hse.ie/eng/services/news/newsfeatures/covid19-updates/partner-resources/covid-19-translated-resources/manifesto-informativo-sul-coronavirus-italian.pdf)
+
+[Poster de informação sobre o Coronavírus (Portuguese)](https://www.hse.ie/eng/services/news/newsfeatures/covid19-updates/partner-resources/covid-19-translated-resources/poster-de-informacao-sobre-o-coronavirus-portuguese.pdf)
+
+[Poster Información sobre el coronavirus (Spanish)](https://www.hse.ie/eng/services/news/newsfeatures/covid19-updates/partner-resources/covid-19-translated-resources/poster-informacion-sobre-el-coronavirus-spanish.pdf)
+
+[Poster Informații despre Coronavirus (Romanian)](https://www.hse.ie/eng/services/news/newsfeatures/covid19-updates/partner-resources/covid-19-translated-resources/poster-informatii-despre-coronavirus-romanian.pdf)
+
+[冠状病毒信息宣传海报 (Chinese)](https://www.hse.ie/eng/services/news/newsfeatures/covid19-updates/partner-resources/covid-19-translated-resources/%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E4%BF%A1%E6%81%AF%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5-chinese.pdf)
