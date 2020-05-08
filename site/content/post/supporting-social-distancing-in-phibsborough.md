@@ -11,6 +11,4 @@ The World Health Organisation have called on people to walk or cycle wherever po
 
 If you have additional suggestions of where the streetscape should be altered to support social distancing for walking and cycling you can submit your ideas here: https://www.dublincity.ie/trafficservice and forward to me by email as well as I will be happy to follow up.
 
-
-
-Read full letter [here](file:///C:/Users/Janet%20Horner/Downloads/Letter%20Owen%20Keegan.pdf). With many thanks to Anne Bedos in Rothar for coordinating this.
+Read full letter [here](/docs/Letter%20Owen%20Keegan.pdf). With many thanks to Anne Bedos in Rothar for coordinating this.
