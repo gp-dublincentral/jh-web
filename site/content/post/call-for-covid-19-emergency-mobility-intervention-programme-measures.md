@@ -8,12 +8,14 @@ description: >-
   work. 
 
   I joined with Councillor Darcy Lonergan and Neasa Hourigan, T.D. to make the
-  following submission. If you have feedback or additional thoughts, please do
-  get in touch or you can submit your requests to the Council here:
-  https://www.dublincity.ie/trafficservice
+  following submission. 
 image: /img/bc-image.png
 ---
-As you’ll be aware, we very much welcome the ongoing programme of works to support social distancing through changes to the streetscapes of the city. We have added our name to various representations from residents of the North Inner City and surrounding neighbourhoods seeking improvements to their residential areas and urban villages.
+If you have feedback or additional thoughts, please do get in touch or you can submit your requests to the Council here: <https://www.dublincity.ie/trafficservice>
+
+
+
+As you’ll be aware, we very much welcome the ongoing programme of works to support social distancing through changes to the streetscapes of the city. We have added our name to various representations from residents of the North Inner City and surrounding neighbourhoods seeking improvements to their residential areas and urban villages.
 
 This current crisis has brought into even sharper focus the importance of quality, spacious footpaths and cycle lanes to ensure that the city is safe and accessible. This will be more important than ever over the coming months. With the lower motor traffic capacity for the city as a result of the lighting changes we should set an ambition of having a _maximum_ of a single lane of private motor traffic in each direction. For streets such as Summerhill, Gardiner, Manor, and Dorset Street this will leave a significant amount of additional space available for extended footpaths and safe cycle lanes. 
 
@@ -29,7 +31,7 @@ As mentioned above, the requests we are making for the Dublin Central area and t
 
 **Liffey Street:** This is due to be pedestrianised in the near future in any case by Dublin City Council and in the interim could easily be pedestrianised to allow social distancing, with the exception of a short window for deliveries. It would require a minimal level of infrastructural changes. Temporarily closing some of the access points to North Lotts to motor traffic could also help ease some of the pressure on this area.
 
- **Suffolk Street:** A small change to the junction with Nassau Street could facilitate safe cycling between the two, but this would need to include caution signs for pedestrians and encourage slow crossing for those cycling. This would also allow people cycling to avoid the Luas tracks at College Green. 
+**Suffolk Street:** A small change to the junction with Nassau Street could facilitate safe cycling between the two, but this would need to include caution signs for pedestrians and encourage slow crossing for those cycling. This would also allow people cycling to avoid the Luas tracks at College Green. 
 
 **College Green:** The plans to create a temporary pedestrian plaza here are warmly welcome. If provision for cycling isn’t possible here, then safe circuitous routes for cycling should be provided – possibly including a counterflow cycle lane along Pearse Street, and cycling permeability between Nassau Street and Suffolk Street.
 
