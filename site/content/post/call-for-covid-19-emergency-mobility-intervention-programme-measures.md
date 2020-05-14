@@ -8,8 +8,8 @@ description: >-
   work. 
 
   I joined with Councillor Darcy Lonergan and Neasa Hourigan, T.D. to make the
-  following requests. If you have feedback or additional thoughts, please do get
-  in touch or you can submit your requests to the Council here:
+  following submission. If you have feedback or additional thoughts, please do
+  get in touch or you can submit your requests to the Council here:
   https://www.dublincity.ie/trafficservice
 image: /img/bc-image.png
 ---
