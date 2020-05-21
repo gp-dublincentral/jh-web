@@ -26,18 +26,20 @@ Cllr. Horner stressed the importance of communication going forward. The meeting
 
 Cllr. Horner raised concern about the use of a commercial company to provide private services and intends to pursue this issue within DCC as we should be looking to move away rather than towards private facilities.
 
-Current owner bought it in February.  Bidding closed very quickly at €1.5 million. In early March the issue of lacking accommodation to deal with COVID crisis became apparent. The owners reached out to DRHE.
+In early March the issue of lacking accommodation to deal with COVID crisis became apparent. The owners reached out to DRHE.
 
 ## Fire safety
 
-We were assured that the facility was up to scratch regarding fire safety. Fire consultant says it can hold 60 people. Bunk beds cannot be used so single beds only.
+Assurance was given that the facility is up to scratch regarding fire safety. Fire consultant says it can hold 60 people. Bunk beds cannot be used so single beds only.
 
-Regularisation cert has been submitted.  The district fire office - Dublin Fire Brigade are satisfied. There was no historical fire cert in the building.
+Regularisation cert has been submitted.  The district fire office - Dublin Fire Brigade are satisfied. 
 
 ## Anti-social behaviour
 
-Additional practical steps are to be agreed to address any issues of anti-social behaviour, particularly in St. Anne’s pocket park. Residents are concerned about litter and safety in the area being exacerbated by the facility. Men are drinking in the pocket park making it a hostile space for children. Concerns about drug dealing associated with the two houses.
+Additional practical steps are to be agreed to address any issues of anti-social behaviour, particularly in St. Anne’s pocket park. Residents are concerned about litter and safety in the area being exacerbated by the facility. 
 
 It was proposed that the back garden could become a social and recreational facility for the residents. Cllr. Horner had previously got assurance that this would be looked at once resident are fully in situ. 
 
-Unfortunately there was no Garda Síochána presence at the meeting today. Patrick Dunne is the Garda who represents the area 0838183320 - Mountjoy.
+It was also proposed that a plan be put in place for the area as a whole rather than simply managing the individual building.
+
+Unfortunately there was no Garda Síochána presence at the meeting today.
