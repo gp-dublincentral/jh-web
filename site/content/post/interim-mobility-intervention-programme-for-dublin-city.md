@@ -9,11 +9,10 @@ description: >-
 
   to reopen all in line with government guidelines and timescales
 attachments:
-  - att-filename: img/memo-to-elected-members-re-covid-19-response.pdf
-    att-name: "* [Memo](/docs/Memo-to-Elected-Members-re-COVID-19-Response.pdf) to
-      Elected Members of the City Council from the Lord Mayor, Tom Brabazon"
-  - att-name: The DCC/NTA Covid Mobility Programme
-    att-filename: img/dcc-nta-covid-mobility-programme.pdf
+  - filename: img/memo-to-elected-members-re-covid-19-response.pdf
+    name: "Memo to Elected Members of the City Council from the Lord Mayor, Tom Brabazon"
+  - name: The DCC/NTA Covid Mobility Programme
+    filename: img/dcc-nta-covid-mobility-programme.pdf
 ---
 Two documents
 
