@@ -8,12 +8,7 @@ description: >-
   activities to restart and allow people to visit family and friends and, in time, schools and colleges
 
   to reopen all in line with government guidelines and timescales
-attachments:
-  - att-name: Memo to Elected Members of the City Council from the Lord Mayor, Tom
-      Brabazon
-    att-filename: img/memo-to-elected-members-re-covid-19-response.pdf
-  - att-name: The DCC/NTA Covid Mobility Programme
-    att-filename: img/memo-to-elected-members-re-covid-19-response.pdf
+attachments: []
 ---
 Two documents
 
