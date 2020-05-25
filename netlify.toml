@@ -15,5 +15,3 @@
   from = "/vote"
   to = "/post/register-to-vote-in-the-general-election/"  
 
-[markup.goldmark.renderer]
-unsafe= true

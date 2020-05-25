@@ -5,3 +5,6 @@ title = "Cllr. Janet Horner"
 disableKinds = ["taxonomyTerm"]
 
 googleAnalytics = "UA-146892475-1"
+
+[markup.goldmark.renderer]
+unsafe= true
