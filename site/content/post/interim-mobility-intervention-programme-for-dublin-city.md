@@ -14,7 +14,3 @@ Two documents
 
 * [Memo](/docs/Memo-to-Elected-Members-re-COVID-19-Response.pdf) to Elected Members of the City Council from the Lord Mayor, Tom Brabazon
 * The DCC/NTA Covid [Mobility Programme](/docs/DCC-NTA-Covid-Mobility-Programme.pdf)
-
-Cllr Horner was recently interviewed by RTÉ on this issue.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yLuj7yJzlSA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
