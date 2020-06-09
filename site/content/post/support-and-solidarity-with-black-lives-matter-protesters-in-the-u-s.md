@@ -1,6 +1,6 @@
 ---
 title: Support and Solidarity with Black Lives Matter
-date: 2020-06-09T14:35:17.540Z
+date: 2020-06-03T14:35:17.540Z
 description: "I joined with my fellow Green Party Councillors in Dublin City
   Council to write to the US Ambassador to express our condolences at the death
   of George Floyd and our condemnation of the actions of the state and the
