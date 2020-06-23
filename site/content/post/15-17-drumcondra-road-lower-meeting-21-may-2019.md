@@ -1,9 +1,8 @@
 ---
 title: 15-17 Drumcondra Road Lower - meeting 21 May 2019
 date: 2020-05-21T16:10:24.387Z
-description: >-
-  Cllr. Janet Horner met with Dublin City Council Executive and the Dublin
-  Region Homeless Executive to discuss a number of open points on 15-17
+description: Cllr. Janet Horner met with Dublin City Council Executive and the
+  Dublin Region Homeless Executive to discuss a number of open points on 15-17
   Drumcondra Road. Below are draft minutes from that meeting covering a number
   of open discussion items.
 image: /img/img_20200504_162140.png
@@ -43,3 +42,5 @@ It was proposed that the back garden could become a social and recreational faci
 It was also proposed that a plan be put in place for the area as a whole rather than simply managing the individual building.
 
 Unfortunately there was no Garda Síochána presence at the meeting today.
+
+The operator of the facility can be contacted on [1517drumcondrard@gmail.com](1517drumcondrard@gmail.com)
