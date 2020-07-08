@@ -1,11 +1,11 @@
 ---
-title: Changes to the Street of the North Inner City
+title: Changes to the Streets of the North Inner City
 date: 2020-07-08T15:49:05.200Z
 description: "The streets of our city and our communities are seeing some
   significant changes at the moment: footpaths are being extended to make social
   distancing easier, cycle lanes are being created, and existing ones
   protected."
-image: img/copa-grangegorman.png
+image: img/grangegorman.jpg
 attachments:
   - filename: img/dcc-nta-covid-mobility-programme.pdf
     name: NTA DCC COVID Mobility Intervention Programme
