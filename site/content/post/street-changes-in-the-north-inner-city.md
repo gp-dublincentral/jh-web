@@ -1,5 +1,5 @@
 ---
-title: Street Changes in the North Inner City
+title: Changes to the Street of the North Inner City
 date: 2020-07-08T15:49:05.200Z
 description: "The streets of our city and our communities are seeing some
   significant changes at the moment: footpaths are being extended to make social
