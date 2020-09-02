@@ -9,7 +9,7 @@ description: >-
 
   I joined with Councillor Darcy Lonergan and Neasa Hourigan, T.D. to make the
   following submission. 
-image: /img/bc-image.png
+image: img/bc-image.png
 ---
 If you have feedback or additional thoughts, please do get in touch or you can submit your requests to the Council here: <https://www.dublincity.ie/trafficservice>
 

@@ -5,7 +5,7 @@ description: "The streets of our city and our communities are seeing some
   significant changes at the moment: footpaths are being extended to make social
   distancing easier, cycle lanes are being created, and existing ones
   protected."
-image: /img/grangegorman.jpg
+image: img/grangegorman.jpg
 attachments:
   - filename: img/dcc-nta-covid-mobility-programme.pdf
     name: NTA DCC COVID Mobility Intervention Programme

@@ -5,7 +5,7 @@ description: Cllr. Janet Horner met with Dublin City Council Executive and the
   Dublin Region Homeless Executive to discuss a number of open points on 15-17
   Drumcondra Road. Below are draft minutes from that meeting covering a number
   of open discussion items.
-image: /img/img_20200504_162140.png
+image: img/img_20200504_162140.png
 ---
 ## Planning Permission
 

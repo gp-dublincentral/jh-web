@@ -8,7 +8,7 @@ description: >-
   feedback at that point. Below is my submission to the NTA at this point.
   Please contact me if you would like to discuss any aspect of this in advance
   of any further consultations.
-image: /img/bc-image.png
+image: img/bc-image.png
 ---
 The revised plans under BusConnects are overall a significant advancement on what was previously proposed. There is a genuine commitment evident to improving the public realm for all and to make it more efficient, safe and enjoyable to use public transport and to walk and cycle instead of using private cars. This is a step in the right direction for a climate safe, inclusive and accessible city. However, some issues still remain and the plan does not sufficiently reflect the urgency of the climate crisis and is unlikely to shift behaviour significantly enough to get on track to meet the 2030 carbon emissions reduction targets under the Paris Climate Agreement and the Sustainable Development Goals. There will also be far too many places in the city which will remain prohibitive for many to walk or cycle, or otherwise use active travel means. 
 

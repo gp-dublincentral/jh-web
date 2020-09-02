@@ -5,7 +5,7 @@ description: >
   Brendan Kenny, Deputy Chief Executive of Dublin City Council has produced a
   report, provided below, on the new facility for Homeless single persons in
   Drumcondra                                                                                                                                                                                                                                                              
-image: /img/img_20200504_162140.png
+image: img/img_20200504_162140.png
 ---
 Three files have been provided: 
 

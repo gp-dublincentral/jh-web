@@ -5,7 +5,7 @@ description: >-
   If you come across across a bin in need of attention by the waste management
   services, you can report it instantly by scanning the QR code on the side of
   the bin.
-image: /img/qr-code.png
+image: img/qr-code.png
 ---
 1. Open the QR scanner app on your phone (if you do not already have a QR scanner app on your smart phone one can be downloaded).
 2. Scan the QR code on the tag that is attached to the litter bin. This will link you directly to the DCC website.
