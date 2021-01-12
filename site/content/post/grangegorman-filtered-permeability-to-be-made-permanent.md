@@ -1,6 +1,6 @@
 ---
 title: Grangegorman Filtered Permeability to be made permanent
-date: 2021-01-07T17:59:32.679Z
+date: 2021-01-12T12:23:35.154Z
 description: I am delighted to confirm that the Grangegorman “filtered
   permeability” project will be retained permanently. The project was voted on
   at today’s Central Area Committee and was supported by the majority of the
