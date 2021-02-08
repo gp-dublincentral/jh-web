@@ -12,6 +12,7 @@ description: >-
   I believe our services should be underpinned by human rights standards, mental and physical healthcare supports and an unequivocal commitment to ending homelessness and rough sleeping. 
 
   Below are some core concerns and issues I have raised with the Council and the answers I have got.
+image: img/tackling-homelessness.jpg
 ---
 **The Local Connection Rule:**
 
