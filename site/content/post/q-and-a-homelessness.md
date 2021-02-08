@@ -13,14 +13,19 @@ description: >-
 
   Below are some core concerns and issues I have raised and the answers I have received.
 image: img/tackling-homelessness.jpg
+attachments:
+  - filename: img/mot3-cllr-janet-horner-flynn-o-driscoll-mccormack-lonergan-boylan-costello-meenagh-burke-ring-emergency-accommodation-.docx
+    name: 1 - Motion on Emergency Accommodation
+  - name: 2 - Minister's instructions
+    filename: https://docs.google.com/document/d/1U8tEHKFywKBpviVUrwICy0pFalacsez20r22UKrei-Q/edit
 ---
 **The Local Connection Rule:**
 
 People who have experienced homelessness and service providers reported an increased trend in 2020 of people being denied beds when rough sleeping, despite availability in the system. This seems to be down to an unwritten “local connection” rule which says that a person must be associated with the local authority where they are seeking emergency accommodation.
 
-Having raised a concern about this a few times directly with the DRHE, I joined with other Councillors in the Central Area Committee in [passing a motion in December 2020](https://drive.google.com/file/d/1ILdE7iZwk-opTgcD3o1J1qRK610oJvPi/view?usp=sharing) calling for beds to be made available on a humanitarian basis. 
+Having raised a concern about this a few times directly with the DRHE, I joined with other Councillors in the Central Area Committee in [passing a motion in December 2020](https://drive.google.com/file/d/1ILdE7iZwk-opTgcD3o1J1qRK610oJvPi/view?usp=sharing) (1) calling for beds to be made available on a humanitarian basis. 
 
-Later in December 2020 the [Minister issued clear instructions](https://drive.google.com/file/d/1GARZOqn3p8v22ArlB6CDjO0yNcLnBDFG/view?usp=sharing) to local authorities that no-one should be refused a bed on the basis of the "local connection" rule – with particular emphasis on the cold weather period where sleeping outside could be fatal. We were assured that while a housing needs assessment may take several days to complete with someone presenting for the first time, they should be accommodated in the interim.
+Later in December 2020 the [Minister issued clear instructions](https://drive.google.com/file/d/1GARZOqn3p8v22ArlB6CDjO0yNcLnBDFG/view?usp=sharing) (2) to local authorities that no-one should be refused a bed on the basis of the "local connection" rule – with particular emphasis on the cold weather period where sleeping outside could be fatal. We were assured that while a housing needs assessment may take several days to complete with someone presenting for the first time, they should be accommodated in the interim.
 
 **Standards in Private Emergency Accommodation (PEAs):**
 
