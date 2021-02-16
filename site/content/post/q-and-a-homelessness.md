@@ -47,6 +47,8 @@ Since 2016, the amount of [money spent on privately run facilities has more than
 
 Councillors cannot access the contracts issued to private emergency providers due to commercial sensitivity. But [an advert on Daft.ie](https://dublininquirer.com/2021/01/27/advert-for-homeless-hostel-estimates-profits-of-250-000-a-year) shows that one provider in the North Inner City was returning more than a 100% profit on running costs. 
 
+While the DRHE have stated that they are intending to move away from privately run emergency accommodation, they are also [continuing to recruit for more providers](https://drive.google.com/file/d/1K0Bdf1wPQxx9zTnw-EfzKTdJ_lsD_Pqv/view?usp=sharing) to enter into privately negotiated contracts with. 
+
 **Contracts**
 
 [I inquired about the process for awarding contracts to PEAs](https://drive.google.com/file/d/1K0Bdf1wPQxx9zTnw-EfzKTdJ_lsD_Pqv/view?usp=sharing) and was assured that the DRHE were commissioning specialist advice on the procurement of emergency accommodation but at present it does not appear that they are subject to the public procurement process which is standard in the public sector.
