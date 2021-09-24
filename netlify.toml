@@ -15,3 +15,6 @@
   from = "/vote"
   to = "/post/register-to-vote-in-the-general-election/"  
 
+[[redirects]]
+  from = "/subscribe"
+  to = "https://mailchi.mp/f5c7ba4bb9da/councillor-janet-horners-mailing-list"  
