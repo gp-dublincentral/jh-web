@@ -18,3 +18,7 @@
 [[redirects]]
   from = "/subscribe"
   to = "https://mailchi.mp/f5c7ba4bb9da/councillor-janet-horners-mailing-list"  
+
+[[redirects]]
+  from = "/zero-carbon"
+  to = "https://mailchi.mp/71d1515e1fa4/dcc-dev-plan-zero-carbon"
