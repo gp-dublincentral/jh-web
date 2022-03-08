@@ -8,6 +8,8 @@ image: img/capel-street.png
 attachments:
   - filename: img/capel-st-taffic-management-proposal.pdf
     name: Capel Street traffic management proposal
+  - filename: img/with-reference-to-a-report-for-discussion-on-the-proposed-traffic-free-capel-street.pdf
+    name: Capel Street Proposals full report
 ---
 A few key issues to consider about these draft plans:
 
