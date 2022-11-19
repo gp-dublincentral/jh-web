@@ -24,11 +24,11 @@ An exempted development regulation for the change of use of a wide repository of
 
 #### How many individuals are intended to be accommodated there?
 
-The capacity in Two Gateway Building, East Wall is 380 persons who are International Protection applicants.  
+The capacity in Two Gateway Building, East Wall is 380 persons who are International Protection applicants. This will consist of a mixture of singles and families. Initially 80 singles have been moved in but families will follow in due course. 
 
 #### How long can individuals expect to stay there before moving on to more suitable accommodation?
 
-It is not possible to say with certainty what the length of stay will be having regard to the ongoing crisis is the numbers of IP applicants arriving and the scarcity of more appropriate accommodation. This remains under review but we would note that the Department has recently closed for applications on the second phase of the 2022 tender process for additional accommodation and is now begin to assess the applications.  
+It is not possible to say with certainty what the length of stay will be having regard to the ongoing crisis is the numbers of IP applicants arriving and the scarcity of more appropriate accommodation. This remains under review but we would note that the Department has recently closed for applications on the second phase of the 2022 tender process for additional accommodation and is now beginning to assess the applications.  
 
 #### What will the resident breakdown be at the building?
 
