@@ -3,11 +3,12 @@ title: Emergency International Protection Accommodation, East Wall Road
 date: 2022-11-18T18:12:18.594Z
 description: As an emergency measure, in response to extraordinary pressure on
   the international protection system and a lack of available accommodation for
-  international protection applicants, the for ESB office building on East Wall
-  Road has been converted into an accommodation centre. Some information below
-  based on the briefing provided by the Department of Children, Equality,
+  international protection applicants, the former ESB office building on East
+  Wall Road has been converted into an accommodation centre. Some information
+  below based on the briefing provided by the Department of Children, Equality,
   Disability, Integration and Youth (DCEDIY) may be of interest to the local
-  community.
+  community. The Department will be circulating an information leaflet to all
+  residents in the coming week.
 image: img/east-wall-ip-centre.png
 ---
 ## **C﻿ontext**
