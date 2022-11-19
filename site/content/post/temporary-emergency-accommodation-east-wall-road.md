@@ -91,8 +91,6 @@ These options must be considered to prevent homelessness for the unprecedented n
 
 #### Who is the contact person in IPAS to respond to any queries or issues?
 
-IPAS operational queries and questions can be sent to ipasinbox@equality.gov.ie  
-
-IPPS procurement and contract queries can be directed to ipps@equality.gov.ie  
+IPAS operational queries and questions can be sent to ipasinbox@equality.gov.ie   
 
 Please put Gateway 2 in the subject line to ensure queries are directed appropriately.
