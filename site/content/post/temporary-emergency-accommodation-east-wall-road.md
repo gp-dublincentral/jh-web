@@ -2,19 +2,19 @@
 title: Emergency International Protection Accommodation, East Wall Road
 date: 2022-11-18T18:12:18.594Z
 description: As an emergency measure, in response to extraordinary pressure on
-  the international protection system at the moment and a lack of available
-  accommodation for international protection applicants, the for ESB office
-  building on East Wall Road will be converted into an accommodation centre.
-  Some information below based on the briefing provided by the Department of
-  Children, Equality, Disability, Integration and Youth (DCEDIY) may be of
-  interest to the local community.
+  the international protection system and a lack of available accommodation for
+  international protection applicants, the for ESB office building on East Wall
+  Road has been converted into an accommodation centre. Some information below
+  based on the briefing provided by the Department of Children, Equality,
+  Disability, Integration and Youth (DCEDIY) may be of interest to the local
+  community.
 image: img/east-wall-ip-centre.png
 ---
 ## **C﻿ontext**
 
-Almost 13,000 people have arrived in Ireland in 2022 seeking asylum. Many of these people are fleeing difficult, dangerous and desperate situations internationally, including war, poverty and the impacts of climate change. They have a legal right to claim asylum in Ireland and will have their applications assessed by the Department of Justice.  
+Almost 13,000 people have arrived in Ireland in 2022 seeking asylum. Many people are fleeing difficult  and dangerous situations internationally, including war, poverty and the impacts of climate change. They have a legal right to claim asylum in Ireland and will have their applications assessed by the Department of Justice.
 
-2﻿022 represents a remarkable increase in the number of people who are seeking asylum in Ireland and alongside the number of people coming to Ireland from Ukraine, there is extraordinary pressure on the system. This means that the Department of Children, Equality, Disability, Integration and Youth (DCEDIY) are looking for extraordinary solutions to provide safe and secure accommodation for people in the asylum process. 
+2﻿022 represents a remarkable increase in the number of people who are seeking asylum in Ireland. Alongside the number of people coming to Ireland from Ukraine, there is extraordinary pressure on the system. This means that the Department of Children, Equality, Disability, Integration and Youth (DCEDIY) are looking for extraordinary solutions to provide safe and secure accommodation for people in the asylum process. 
 
 Access to suitable accommodation is severely constrained. Current projections indicate a shortfall of 15,000 beds by December as the number of Ukrainians and IP applicants arriving is expected to remain at elevated levels.  DCEDIY is working urgently across Government and with agencies, NGOs and local authorities to bring new accommodation on board to meet State’s humanitarian responsibilities. In addition, IPPS is sourcing vacant office buildings and state owned properties in order to increase available accommodation. A number of these projects are currently being progressed. 
 
