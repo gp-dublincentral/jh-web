@@ -1,5 +1,5 @@
 ---
-title: Temporary Emergency Accommodation, East Wall Road
+title: Emergency International Protection Accommodation, East Wall Road
 date: 2022-11-18T18:12:18.594Z
 description: As an emergency measure, in response to extraordinary pressure on
   the international protection system at the moment and a lack of available
