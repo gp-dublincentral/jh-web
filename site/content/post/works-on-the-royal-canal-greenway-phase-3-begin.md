@@ -15,13 +15,9 @@ Construction will take place between February 2023 and early 2025. During this t
 
 A﻿ big effort is being made to save as many trees as possible along the route and to relocate trees instead of felling them. Where trees can be neither saved nor relocated some will be felled. This is due to take place between Tuesday 21st Feb and Friday 24th Feb. 
 
-
-
 ## Communication
 
 Leaflets are currently being delivered to all households surrounding the effected area of the project. Information about the scheme and ongoing notices of disruption can be found here: <https://www.dublincity.ie/residential/transportation/active-travel/active-travel-projects/royal-canal-greenway-phase-3>
-
-
 
 ## Outstanding Concerns
 
@@ -32,8 +28,6 @@ Leaflets are currently being delivered to all households surrounding the effecte
 * I﻿ would like to see the informal parking removed from the areas off St. Ignatius Parade and off Dorset Street. It can be a block to accessibility for those with prams, using wheelchairs particularly and the space could be much better used for greening interventions. I would like to see a plan for these spaces brought forward as part of this project.
 * The Portland Place park is also due to be used during the construction phase of the project and should be handed back to the community in a significantly upgraded way.
 * I﻿ have also requested information about whether a new entrance to the canal will be added at St. Ignatius Parade. This was discussed during earlier phases of the plan and needs clarity.
-* Finally I would like to see a plan for upgraded lighting for the length of the Greenway to ensure it can be comfortably be used, even in the darker winter months
-
-
+* Finally, I would like to see a review of the possibility to upgraded lighting in a wildlife friendly manner for the length of the Greenway to ensure it can be comfortably be used, even in the darker winter months.
 
 If you have other questions at any stage during the construction of this project, please do get in touch.
