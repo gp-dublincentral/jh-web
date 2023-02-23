@@ -1,5 +1,5 @@
 ---
-title: All about E-Scooters
+title: "Dublin's E-Scooters: Issues, Concerns and Opportunities"
 date: 2023-02-23T11:41:30.700Z
 description: E-scooters get plenty of good and (mainly) bad press in Dublin.
   Many people worry that they are a danger to pedestrians or to the users
