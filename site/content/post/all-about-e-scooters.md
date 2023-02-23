@@ -1,18 +1,18 @@
 ---
 title: "Dublin's E-Scooters: Issues, Concerns and Opportunities"
 date: 2023-02-23T11:41:30.700Z
-description: E-scooters get plenty of good and (mainly) bad press in Dublin.
+description: "E-scooters get plenty of good and (mainly) bad press in Dublin.
   Many people worry that they are a danger to pedestrians or to the users
-  themselves. But they are continuing to grow in popularity and as an
-  alternative, efficient, and somewhat sustainable alternative to car usage,
-  they certainly have a role to play in the future of Dublin's transport. I am
-  often asked about what is happening to make them safer and improve their
-  functionality in Dublin so below are a few key issues of concern.
+  themselves. But they are continuing to grow in popularity and as a fast, cheap
+  and (somewhat) sustainable way to get around the city, they have a role to
+  play in the future of Dublin's transport. Here I've tried to address some of
+  the questions and concerns I frequently hear about them and what the
+  Government and Council can/should do next. "
 image: img/tier-at-dcu.jpg
 ---
-E-scooters are by no means a silver bullet for sustainable transport in Dublin. They offer several advantages but also have many limitations. So it is important to look at them in the context of the wider changes that we need to see for Dublin's transport system to work efficiently - much better public transport  including buses, trains, metros, trams etc. and a network of segregated bike lanes t﻿o accommodate all forms of micro-mobility (e.g. bikes, trikes, e-scooters, electric wheelchairs).
+E-scooters are by no means a silver bullet for sustainable transport in Dublin. They offer several advantages but also have many limitations. So it is important to look at their potential in the context of the wider changes that we need to see for Dublin's transport system to work efficiently - much better public transport  including buses, trains, metros, trams etc. and a network of segregated bike lanes t﻿o accommodate all forms of micro-mobility (e.g. bikes, trikes, e-scooters, electric wheelchairs).
 
-## O﻿pportunities
+## Opportunities
 
 * E﻿-scooters offer a lot of potential for the last mile of a commute. For example, if you are arriving into Dublin from Heuston, its not always easy to take a bike on the train. But a scooter is easier to transport and can be a very efficient way of getting into the city centre along the quays, avoiding the traffic and delays associated.
 * T﻿hey offer big potential for shift workers or those working at hours or in locations not easily served by public transport. For those who don't want the physical exertion of cycling on their commute particularly, they can be very handy. 
