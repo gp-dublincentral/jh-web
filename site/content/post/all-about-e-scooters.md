@@ -30,7 +30,7 @@ E-scooters are by no means a silver bullet for sustainable transport in Dublin. 
 
 ## F﻿orthcoming legislation
 
-T﻿here is legislation coming through the Oireachtas to regulate for e-scooters. Up until now, despite being common on our streets they have not been covered by any existing legislation and therefore very difficult to impose proper rules or conditions on. The legislation is expected to be in place in the Spring of 2023 to allow the Minister to set rules for their use including, age limits (expected to be 16), speed limit (expected to be 25kph), wheel size for safety reasons, battery type for environmental reasons, and importantly ***banning them from footpaths for pedestrian safety***.
+T﻿here is legislation coming through the Oireachtas to regulate for e-scooters. Up until now, despite being common on our streets they have not been covered by any existing legislation and therefore very difficult to impose proper rules or conditions on. The legislation is expected to be in place in the Spring of 2023 to allow the Minister to set rules for their use including, age limits (expected to be 16), speed limit (expected to be 20kph), wheel size for safety reasons, battery type for environmental reasons, and importantly ***banning them from footpaths for pedestrian safety***.
 
 ## T﻿he Future of S﻿cooter Sharing in Dublin
 
