@@ -11,7 +11,8 @@ attachments:
   - filename: img/zebra-crossing-working-group-report.pdf
     name: Zebra Crossing Working Group Report
 ---
-D﻿ublin City Council currently just has 3 zebra crossings across the city. The working group examined some of the concerns around zebra crossings and agreed some criteria under which they should be used. 5 new zebra crossings will be added as an initial measure.
+D﻿ublin City Council currently just has 3 zebra crossings across the city and have a policy against using them in favour of fully signalised crossings. However, the reality of this is that they are slow to install crossings, they are often expensive and they are not appropriate for quieter residential streets. \
+I﻿ have made it a priority to change this policy across the city, got agreement to form a working group and chaired the working group through various concerns and deliberations. I am very pleased that the result of that is that we will start rolling them out, review progress and hopefully integrate zebra crossings into the normal workings of the traffic department.
 
 The following criteria were agreed for selecting locations for Zebra Crossings: 
 
