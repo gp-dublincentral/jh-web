@@ -43,4 +43,4 @@ It was also proposed that a plan be put in place for the area as a whole rather 
 
 Unfortunately there was no Garda Síochána presence at the meeting today.
 
-The operator of the facility can be contacted on [1517drumcondrard@gmail.com](1517drumcondrard@gmail.com)
+The operator of the facility can be contacted on [1517drumcondrard@gmail.com](mailto:1517drumcondrard@gmail.com)
