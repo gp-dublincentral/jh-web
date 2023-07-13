@@ -21,4 +21,4 @@ Stay connected on Social Media to stay up to date on campaigns and issues with w
 
 **Join the Green Party**
 
-I believe passionately that Green Party principles are a pathway towards a more compassionate, equitable and environmentally responsible society. One of the ways to help is to ask your friends and family to get involved. [Join the Green Party](https://my.greenparty.ie/join)
+I believe passionately that Green Party principles are a pathway towards a more compassionate, equitable and environmentally responsible society. One of the ways to help is to ask your friends and family to get involved. [Join the Green Party](https://my.greenparty.ie/)
