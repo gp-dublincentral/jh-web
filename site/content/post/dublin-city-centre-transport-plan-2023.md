@@ -1,5 +1,5 @@
 ---
-title: dublin-city-centre-transport-plan-2023
+title: Public meeting on Draft Dublin City Centre Transport Plan 2023
 date: 2023-10-06T11:57:49.308Z
 description: Dublin City Council and National Transport Authority have published
   the draft Dublin City Centre Transport Plan 2023 which sets out a vision for
