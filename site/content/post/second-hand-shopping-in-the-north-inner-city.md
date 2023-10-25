@@ -12,8 +12,6 @@ image: img/vincents.jpg
 
 While second-hand clothes shopping won’t solve the systemic unsustainability of the fashion industry, it can be a fun and creative way to disengage personally from it. Consider it a moment of mindfulness - opting out of supporting an exploitative industry and gathering your strength to take on the system (in some decent, comfy clothes!).
 
-
-
 My top tips (from someone with zero fashion credentials so please ignore at will!):
 
 * Avoid the very fast fashion brands. Second-hand clothes made with low quality materials may already be out of shape before they come to you or will go out of shape quickly!
@@ -24,15 +22,9 @@ My top tips (from someone with zero fashion credentials so please ignore at will
 * Don’t donate pieces that are really worn, out of shape and ragged - you are just putting the responsibility to dispose of them on someone else instead of doing it yourself!
 * Don’t justify buying new fast fashion on the grounds you will donate it afterwards - those pieces depreciate in quality so quickly that they will still end up in landfill very soon! This isn’t to shame anyone for buying cheap fast fashion - there are a lot of reasons (price, convenience, dress codes etc!) why we do but brands telling us its sustainable if we donate afterwards is just untrue!
 
-
-
 The North Inner City has some great charity/second hand shops. Check out the map here to find your nearest one: <https://maps.app.goo.gl/bhny1cvvK7kgpd9o8> (I included some bonus ones in Phibsboro too!)
 
-
-
-The full list (that I know of!) is below. My favs tend to be the Vincents shops - both on Sean McDermott Street and Dorset Street. I find them enjoyable to browse, they have decent changing rooms and tend to sort things by size and I have picked up some nice bits there. All round 10/10 shopping experiences!
-
-
+The full list (that I know of!) is below. My favs tend to be the Vincents shops - both on Sean McDermott Street and Dorset Street. I find them enjoyable to browse, they have decent changing rooms and they tend to sort things by size and I have picked up some nice bits there. All round 10/10 shopping experiences!
 
 * Vincent's Sean McDermott Street, SVP House, Sean Mac Dermott Street Lower
 * SVP Vincent's Shop Dorset St, 59 Dorset Street Lower
@@ -48,7 +40,5 @@ The full list (that I know of!) is below. My favs tend to be the Vincents shops 
 * Ritzy Rags Charity Shop, 25 Bolton St (supporting Friends of the Elderly)
 
 Am I missing any? Let me know! Got any better tips for shoppers? Hit me up!
-
-
 
 <!--EndFragment-->
