@@ -24,7 +24,7 @@ My top tips (from someone with zero fashion credentials so please ignore at will
 
 The North Inner City has some great charity/second hand shops. Check out the map here to find your nearest one: <https://maps.app.goo.gl/bhny1cvvK7kgpd9o8> (I included some bonus ones in Phibsboro too!)
 
-The full list (that I know of!) is below. My favs tend to be the Vincents shops - both on Sean McDermott Street and Dorset Street. I find them enjoyable to browse, they have decent changing rooms and they tend to sort things by size and I have picked up some nice bits there. All round 10/10 shopping experiences!
+The full list (that I know of!) is below. My favs tend to be the Vincent's shops - both on Sean McDermott Street and Dorset Street. I find them enjoyable to browse, they have decent changing rooms and they tend to sort things by size and I have picked up some nice bits there. All round 10/10 shopping experiences!
 
 * Vincent's Sean McDermott Street, SVP House, Sean Mac Dermott Street Lower
 * SVP Vincent's Shop Dorset St, 59 Dorset Street Lower
