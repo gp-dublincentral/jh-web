@@ -1,5 +1,5 @@
 ---
-title: Progress on clamping down on gambling advertising
+title: Progress on clamping down on illegal gambling advertising
 date: 2023-11-22T13:42:34.740Z
 description: "The gambling industry is a scourge on inner city communities,
   preying on vulnerable people and bleeding badly needed money out of some of
