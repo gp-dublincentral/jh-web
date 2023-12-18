@@ -6,7 +6,7 @@ description: Cllr. Janet Horner, Area Rep. Feljin Jose, and Neasa Hourigan TD
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9J2YwApq5qg?si=XSIi308ftzJ1J9WG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Transscript:**
+**Transcript:**
 
 **Cllr. Janet Horner**
 
