@@ -1,9 +1,13 @@
 ---
-title: waste-reduction
+title: Reducing litter in the city
 date: 2023-12-18T17:45:36.820Z
 description: Cllr. Janet Horner, Area Rep. Feljin Jose, and Neasa Hourigan TD
   discuss measures to reduce litter and illegal dumping in the city.
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9J2YwApq5qg?si=XSIi308ftzJ1J9WG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Transscript:**
+
 **Cllr. Janet Horner**
 
 The litter and dumping are absolutely huge issues in the inner city. We see it all around us on our streets and it's an incredibly frustrating issue for the residents around here. 
