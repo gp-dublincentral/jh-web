@@ -4,6 +4,7 @@ date: 2024-02-15T14:42:45.030Z
 description: Dublin City Council is presenting an overview of The Stanley Street
   Proposed Development on 15th February at the Macro Centre on North King Street
   from 4pm to 7pm, all welcome.
+image: img/stanley-1.jpg
 ---
 A quick summary of the development
 
