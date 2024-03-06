@@ -19,11 +19,9 @@ image: img/janet-media.jpg
 
 # 2023
 
-* D﻿ecember - [Op-Ed: Local Councillor: Dublin's Inner City Needs Hard Work, Not Political Games](<https://www.thejournal.ie/readme/dublin-inner-city-riots-6243018-Dec2023/>)
+* D﻿ecember - [Op-Ed: Local Councillor: Dublin's Inner City Needs Hard Work, Not Political Games](https://www.thejournal.ie/readme/dublin-inner-city-riots-6243018-Dec2023/)
 * November - [Betting shops face crackdown on illegal advertising during major sporting tournaments](https://www.irishtimes.com/ireland/dublin/2023/11/22/betting-shops-face-crackdown-on-illegal-advertising-during-major-sporting-tournaments/)
-
-<!---->
-
+* [Money raised for Ukrainian hub transferred to Protestant Aid fund for Ukraine](https://www.rte.ie/news/2023/0326/1366409-ukrainian-church-hub-dublin/)
 * August - [Paris to ban rental e-scooters from city streets](https://www.rte.ie/radio/radio1/clips/22292834/)
 * July - [Proposed Dublin laneway closure a 'real shame' - councillor](<* https://www.rte.ie/news/dublin/2023/0720/1395521-dublin-laneway/>)
 * May - [Private cars to be banned from Dublin's College Green at all time](https://www.rte.ie/radio/radio1/clips/22247560/)
