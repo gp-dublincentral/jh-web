@@ -14,14 +14,14 @@ image: img/janet-media.jpg
 
 * February - [Plan to ban private cars driving through parts of Dublin city centre from August](https://www.rte.ie/radio/radio1/clips/22352600/) 
 * January - [Lane in Dublin being closed because of anti-social behaviour and drug use](https://www.rte.ie/radio/radio1/clips/22340653/) - RTE
-*
+* [Dublin’s unloved lanes: are street closures the solution to antisocial problems?](https://www.irishtimes.com/ireland/dublin/2024/01/12/dublins-unloved-lanes-are-street-closures-the-solution-to-antisocial-problems/) - Irish Times
 * [W﻿e need someone to champion Dublin as a whole](https://www.newstalk.com/podcasts/highlights-from-the-hard-shoulder/we-need-someone-to-champion-dublin-as-a-whole-horner) - Newstalk  
 
 # 2023
 
 * D﻿ecember - [Op-Ed: Local Councillor: Dublin's Inner City Needs Hard Work, Not Political Games](https://www.thejournal.ie/readme/dublin-inner-city-riots-6243018-Dec2023/)
 * November - [Betting shops face crackdown on illegal advertising during major sporting tournaments](https://www.irishtimes.com/ireland/dublin/2023/11/22/betting-shops-face-crackdown-on-illegal-advertising-during-major-sporting-tournaments/)
-* [Money raised for Ukrainian hub transferred to Protestant Aid fund for Ukraine](https://www.rte.ie/news/2023/0326/1366409-ukrainian-church-hub-dublin/)
+* ﻿[Money raised for Ukrainian hub transferred to Protestant Aid fund for Ukraine](https://www.rte.ie/news/2023/0326/1366409-ukrainian-church-hub-dublin/)  ﻿- RTE
 * August - [Paris to ban rental e-scooters from city streets](https://www.rte.ie/radio/radio1/clips/22292834/)
 * July - [Proposed Dublin laneway closure a 'real shame' - councillor](<* https://www.rte.ie/news/dublin/2023/0720/1395521-dublin-laneway/>)
 * May - [Private cars to be banned from Dublin's College Green at all time](https://www.rte.ie/radio/radio1/clips/22247560/)
