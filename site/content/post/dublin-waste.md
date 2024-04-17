@@ -1,10 +1,15 @@
 ---
-title: dublin-waste
+title: Position paper on waste in Dublin city
 date: 2024-04-19T11:09:07.857Z
 description: >
   Today, Neasa Hourigan TD, Cllr. Janet Horner and Area Rep Feljin Jose launched
   a position paper on waste in Dublin city
 image: img/waste-snip.jpg
+attachments:
+  - filename: img/waste-in-dublin-city-v1-lrs.pdf
+    name: Position paper on waste in Dublin city
+  - name: Landlord Waste Contract (Amendment) Bill 2024
+    filename: img/landlord-waste-contract-amendment-bill-2024.pdf
 ---
 The paper looks at:
 * some of the specific challenges Dublin's city centre faces w.r.t. waste
