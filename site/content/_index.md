@@ -1,5 +1,5 @@
 ---
-title: "Vote Janet Horner #1 on June 7th"
+title: "Home"
 pagetitle: Cllr. Janet Horner
 subtitle: The Dublin we deserve
 image: /img/Janet-pic.jpg
