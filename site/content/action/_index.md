@@ -8,7 +8,7 @@ You can make a difference.
 
 You can donate to help my election campaign here
 
-<a style="background: #0f8066 url(https://donorbox.org/images/white_logo.svg) no-repeat 45px;color: #fff;text-decoration: none;font-family: Verdana,sans-serif;display: inline-block;font-size: 16px;padding: 15px 45px;padding-left: 70px;border-radius: 8px;" href"https://donorbox.org/elect-janet-horner-to-dail-eireann">Donate</a>
+<a style="background: #0f8066 url(https://donorbox.org/images/white_logo.svg) no-repeat 45px;color: #fff;text-decoration: none;font-family: Verdana,sans-serif;display: inline-block;font-size: 16px;padding: 15px 45px;padding-left: 70px;border-radius: 8px;" href="https://donorbox.org/elect-janet-horner-to-dail-eireann">Donate</a>
 
 
 **Help my campaign**
