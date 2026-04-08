@@ -43,6 +43,31 @@ intro:
     would be most grateful for any support you can give.
 products: []
 values:
-  heading: "  "
-  text: "  "
+  heading: "A No.1 vote for Janet Horner is a vote for:  "
+  text: |-
+    An affordable city, where everyone
+    has access to a home they can
+    afford and the services they need
+    to live a good life.
+
+    A liveable city, where people can
+    relax and spend time and where
+    we protect the cultural spaces that
+    make our city unique.
+
+    A green city, with more parks,
+    easy access to nature, and climate
+    action that benefits our lives and
+    our communities.
+
+    A connected city, safe to walk and
+    cycle, with accessible, affordable
+    public transport that’s reliable and
+    serves everyone.
+
+    An inclusive city, where care
+    and equality are at the heart of
+    our communities and we stand
+    together against racism and
+    discrimination.
 ---
