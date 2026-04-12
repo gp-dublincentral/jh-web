@@ -84,8 +84,9 @@
   background-color: var(--new-emerald);
 }
 
-
-
+.new-yellow-80 {
+  color: var(--new-yellow-80);
+}
 
 
 .bg-fix-primary {
