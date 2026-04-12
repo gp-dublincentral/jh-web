@@ -72,6 +72,22 @@
   background-color: var(--black);
 }
 
+.bg-new-cyan-60 {
+  background-color: var(--new-cyan-60);
+}
+
+.bg-new-cyan-60 {
+  background-color: var(--new-cyan-60);
+}
+
+.bg-new-emerald {
+  background-color: var(--new-emerald);
+}
+
+
+
+
+
 .bg-fix-primary {
   padding: 0 var(--spacing-small);
   & :first-child {

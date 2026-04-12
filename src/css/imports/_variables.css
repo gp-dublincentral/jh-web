@@ -10,6 +10,13 @@
 	--grey-4: rgba(66, 64, 64, 1);
 	--black: rgba(43, 37, 35, 1);
 
+	--new-emerald: rgba(47,181,106,1);
+	--new-yellow-80: rgba(255,244,80,1);
+	--new-magenta-80: rgba(239,91,161,1);
+	--new-cyan-60: rgba(68,200,245,1);
+	--new-black: rgba(0,0,0,1);
+	--new-white: rgba(255,255,255,1);
+
 	/* Typography */
 	--font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
 	--line-height: 1.5;

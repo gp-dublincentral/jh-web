@@ -18,4 +18,4 @@ Postal correspondence may be sent to: <address>Cllr. Janet Horner, Dublin City C
 
 Please contact me by email, phone below.
 
-O﻿r find me on Instagram/BlueSky/TikTok/LinkedIn/Facebook: @JanetPHorner
+Or find me on Instagram/BlueSky/TikTok/LinkedIn/Facebook: @JanetPHorner
