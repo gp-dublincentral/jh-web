@@ -17,43 +17,32 @@ text:  |-
 
 
 image: /img/Janet-pic.png
-blurb:
-  heading: A chara,
-  text: |-
-      CCCC
 
-intro:
-  heading: Donate to my campaign
-  text: A donation to my campaign puts posters on poles, leaflets in doors, badges
-    on people, ads on bus shelters, and hopefully, a Green TD in the Dáil. I
-    would be most grateful for any support you can give.
-products: []
+
 values:
-  heading: "A No.1 vote for Janet Horner is a vote for:  "
-  text: |-
-    An affordable city, where everyone
-    has access to a home they can
-    afford and the services they need
-    to live a good life.
+    - heading: Delivering the Dublin we deserve 
+      subheading: |-
+        Dublin Central needs TDs who focus not just on the problems, but the solutions.
+        As a councillor, I’ve already worked to improve the city by: 
+      text:
+          - sub:  Championing a traffic-free Capel Street and pushing for the same on College Green
+          - sub:  Improving standards in social housing and emergency accommodation.
+          - sub:  Combatting vacancy and dereliction in the inner city.
+          - sub:  Fighting for cultural spaces like the Cobblestone, D-Light Studios and the Complex
+          - sub:  Standing with migrant communities against hate and promoting integration.
+          - sub:  Regenerating the Parnell Cultural Quarter and the Victorian Fruit and Veg Market.
+          - sub:  Delivering measures that make it safer to walk and cycle.
+          - sub:  Planting more trees and creating new green spaces.
 
-    A liveable city, where people can
-    relax and spend time and where
-    we protect the cultural spaces that
-    make our city unique.
+    - heading: Fighting for social justice, at home and abroad
+      subheading: |-
+        I’ve spent my life campaigning for justice and equality in Ireland, Palestine, India and Uganda. I’ve fought for social change through:
+      text:
+        - sub:  Working with Palestinian women to advocate for women’s role in peace-building.
+        - sub:  Living and teaching in Uganda and India, supporting community development.
+        - sub:  Participating in SIPTU’s Equality and Global Solidarity committees.
+        - sub:  Leading as an organiser in Dublin Central’s campaign to Repeal the 8th Amendment.
+        - sub:  Championing women’s health on the Board of the Rotunda Hospital.
 
-    A green city, with more parks,
-    easy access to nature, and climate
-    action that benefits our lives and
-    our communities.
 
-    A connected city, safe to walk and
-    cycle, with accessible, affordable
-    public transport that’s reliable and
-    serves everyone.
-
-    An inclusive city, where care
-    and equality are at the heart of
-    our communities and we stand
-    together against racism and
-    discrimination.
 ---

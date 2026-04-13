@@ -2,4 +2,6 @@
 
 {{ partial "marketing" (dict "imageUrl" .Params.image "title" .Params.pagetitle "text" .Params.text) }}
 
+{{ partial "2-up" (dict "products" .Params.values) }}
+
 {{ end }}
