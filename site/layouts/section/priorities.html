@@ -2,15 +2,158 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
-<div class="mw7 center ph3 pt4">
+<div class="mw7 center ph3 pt4 cms">
 
-  {{ range $index, $element := .Params.values }}
-    {{ if modBool $index 2 }}
-      {{ partial "media-block" $element }}
-    {{ else }}
-      {{ partial "media-block-reverse" $element }}
-    {{ end }}
-  {{ end }}
+  <div class="flex-m mhn3-m mb4">
+
+    <div class="ph3-m w-50-m">
+      <img src="/img/janet-press.jpg" alt="Janet speaking to press" class="db mb2">
+    </div>
+
+    <div class="ph3-m w-50-m">
+      <h3 class="f3 b lh-title mb1">Housing - Affordable, quality homes for everyone</h3>
+      <p>I’ll treat the housing crisis like the emergency it is, with ambitious, credible solutions to provide safe and
+        secure housing. I’ll work to:</p>
+
+      <ul>
+
+        <li><strong>Deliver public housing</strong>
+          <p>Investing in new cost-rental and social homes while improving standards in our
+            existing housing stock.</p>
+        </li>
+
+        <li><strong>Tackle vacancy and dereliction</strong>
+          <p>Turning empty properties into homes and forcing owners of derelict properties to develop or sell.</p>
+        </li>
+
+        <li><strong>Put affordability first</strong>
+          <p>Activating vacant spaces above shops and rezoning suitable land so we can build faster and cheaper.</p>
+        </li>
+
+        <li><strong>Make home-ownership achievable</strong>
+          <p>Cracking down on investors bulk-buying properties so we can free up homes for families.</p>
+        </li>
+
+        <li><strong>Improve homeless services</strong>
+          <p>Delivering nationwide services with proper supports so care isn’t concentrated or stretched too thin.</p>
+        </li>
+      </ul>
+
+    </div>
+
+  </div>
+
+  <div class="flex-m mhn3-m mb4">
+
+    <div class="ph3-m w-50-m order-last-m">
+      <img src="/img/janet-cleanup.jpg" alt="Janet on cleanup" class="db mb2">
+    </div>
+
+    <div class="ph3-m w-50-m">
+      <h3 class="f3 b lh-title mb1">Climate - Caring for people, caring for our planet</h3>
+
+      <p>A Green TD will be the strongest advocate for the nature we love, the environment we share and the climate
+        action we need. I’ll push for:</p>
+
+      <ul>
+
+        <li><strong>Better public transport</strong>
+          <p>Accelerating delivery of public transport services that are reliable, affordable and accessible.</p>
+        </li>
+
+        <li><strong>Safe roads AND Clean Air</strong>
+          <p>Pushing for the infrastructure that makes walking and cycling a safe choice for everyone.</p>
+        </li>
+
+        <li><strong>Cleaner, cheaper energy</strong>
+          <p>Getting us off expensive, imported fossil fuels and on to clean, renewable, Irish energy.</p>
+        </li>
+        <li><strong>Warmer homes</strong>
+          <p>Ramping up retrofitting to make our homes warmer, healthier and cheaper to heat.</p>
+        </li>
+        <li><strong>Nature restoration</strong>
+          <p>Protecting our environment so we have cleaner water, greener streets and spaces where nature can thrive</p>
+        </li>
+
+    </div>
+
+  </div>
+
+  <div class="mw7 center ph3 pt4 cms">
+
+    <div class="flex-m mhn3-m mb4">
+  
+      <div class="ph3-m w-50-m">
+        <img src="/img/janet-posters.jpg" alt="Janet with posters" class="db mb2">
+      </div>
+  
+      <div class="ph3-m w-50-m">
+        <h3 class="f3 b lh-title mb1">Culture - Supporting a dynamic, creative city</h3>
+        <p>Our cultural and artistic spaces nurture talent, foster community and make Dublin Central the vibrant place that it is. I promise to:</p>
+  
+        <ul>
+  
+          <li><strong>Protect our cultural spaces</strong>
+            <p>Resisting the erosion of independent venues and creative spaces across our city.</p>
+          </li>
+  
+          <li><strong>Prioritise a liveable city</strong>
+            <p>Developing new civic spaces where communities can come together and culture and sport can thrive.</p>
+          </li>
+  
+          <li><strong>Nurture local talent</strong>
+            <p>Providing the facilities and supports for our athletes, artists and creatives to grow and develop their skills.</p>
+          </li>
+  
+          <li><strong>Celebrate diversity</strong>
+            <p>Strengthening integration programmes to combat division and build an inclusive, welcoming society.</p>
+          </li>
+          
+          <li><strong>Enhance our night life</strong>
+            <p>Reforming the laws to help make Dublin’s late-night options fun, vibrant and worth staying out for.</p>
+          </li>
+  
+        </ul>
+  
+      </div>
+  
+    </div>
+  
+    <div class="flex-m mhn3-m mb4">
+
+      <div class="ph3-m w-50-m order-last-m">
+        <img src="/img/janet-palestine.jpg" alt="Janet supporting OT Bill" class="db mb2">
+      </div>
+  
+      <div class="ph3-m w-50-m">
+        <h3 class="f3 b lh-title mb1">Care - Creating a care-centred society</h3>
+  
+        <p>Care is the backbone of our communities and carers should be recognised, respected and supported. I will champion:</p>
+  
+        <ul>
+  
+          <li><strong>Affordable public childcare</strong>
+            <p>Building on the work of the Green Party to further reduce childcare costs and support educators.</p>
+          </li>
+  
+          <li><strong>More school places</strong>
+            <p>Increasing local capacity and improving supports so children of all abilities have access to education.</p>
+          </li>
+  
+          <li><strong>Community models of care</strong>
+            <p>Reducing waiting lists by focusing on provision of accessible, affordable community-based healthcare.</p>
+          </li>
+          <li><strong>Better disability supports</strong>
+            <p>Funding community-based services and investing in the accessibility of public spaces.</p>
+          </li>
+          <li><strong>Mental health and addiction care</strong>
+            <p>Taking a health-led approach to addiction and ensuring mental health services offer 24/7 crisis support</p>
+          </li>
+  
+      </div>
+  
+    </div>
+
 
   <div class="tc pb3">
     <a href="https://www.greenparty.ie/campaigns/" class="btn raise">See all Green Party campaigns</a>
